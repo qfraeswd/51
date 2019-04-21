@@ -3,4 +3,4 @@ prefix=1
 game=1play || 1help
 stayinchannel=true
 songinstatus=false
-token= Êﬂ‰
+token=NTY5NTM5ODc4NTA1OTM4OTY0.XLyHhQ.y6-VISRFycamufffgxHw1inGbFo
